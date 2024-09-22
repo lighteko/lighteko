@@ -1,8 +1,11 @@
 ## Hi there 👋
+My name is Heejoon Yi, a sophomore student in Stony Brook University.
+I'm majoring in both TSM (Technological Systems Management) and CS (Computer Science)
+
+
+# Status 💻
 ![](https://github-readme-stats.vercel.app/api?username=lighteko)
-<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lighteko&layout=compact)
-<br>
 ![](http://mazassumnida.wtf/api/generate_badge?boj=lighteko)
 <!--
 **lighteko/lighteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
