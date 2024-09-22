@@ -5,8 +5,6 @@ I'm majoring in both TSM (Technological Systems Management) and CS (Computer Sci
 
 # Status 💻
 ![](https://github-readme-stats.vercel.app/api?username=lighteko)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lighteko)
-![](http://mazassumnida.wtf/api/generate_badge?boj=lighteko)
 <!--
 **lighteko/lighteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
