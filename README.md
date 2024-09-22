@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Heejoon Yi, a sophomore student in Stony Brook University.
+My name is Heejoon Yi, a sophomore student in Stony Brook University.\n
 I'm majoring in both TSM (Technological Systems Management) and CS (Computer Science)
 
 
