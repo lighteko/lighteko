@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Heejoon Yi, a sophomore student in Stony Brook University.
 <br>
-I'm majoring in both TSM (Technological Systems Management) and CS (Computer Science)
+I'm majoring in both TSM (Technological Systems Management) and CS (Computer Science).
 
 # Status 💻
 <a href="https://github.com/anuraghazra/github-readme-stats">
