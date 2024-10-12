@@ -2,6 +2,9 @@
 My name is Heejoon Yi, a sophomore student in Stony Brook University.
 <br>
 I'm majoring in both TSM (Technological Systems Management) and CS (Computer Science).
+<div>
+    <a href="https://wakatime.com/@72204e89-a319-4896-a593-21d5f14a6b04"><img src="https://wakatime.com/badge/user/72204e89-a319-4896-a593-21d5f14a6b04.svg" alt="Total time coded since Oct 10 2024" /></a>
+</div>
 
 # Github 
 <div>
