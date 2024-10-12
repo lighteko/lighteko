@@ -1,4 +1,4 @@
-# Intro
+# 이희준 (Heejoon Yi)
 My name is Heejoon Yi, a sophomore student in Stony Brook University.
 <br>
 I'm majoring in both TSM (Technological Systems Management) and CS (Computer Science).
