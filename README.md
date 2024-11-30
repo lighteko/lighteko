@@ -19,6 +19,7 @@ I'm majoring in both TSM (Technological Systems Management) and CS (Computer Sci
     <img src="https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/lambda-20232a.svg?style=for-the-badge&logo=awslambda&logoColor=white" />
 </div>
 <br>
 <div>
