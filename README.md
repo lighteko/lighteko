@@ -34,7 +34,6 @@ I'm majoring in both TSM (Technological Systems Management) and CS (Computer Sci
     <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/cpp-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 <br>
 <div>
