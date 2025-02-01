@@ -25,6 +25,7 @@
 ![AWS Lambda](https://img.shields.io/badge/aws_lambda-20232a.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
 ![AWS EC2](https://img.shields.io/badge/aws_ec2-20232a.svg?style=for-the-badge&logo=amazonec2&logoColor=white) 
 ![AWS S3](https://img.shields.io/badge/aws_s3-20232a.svg?style=for-the-badge&logo=amazons3&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 
 ### Languages  
@@ -49,8 +50,8 @@
 > 🏗 **Featured Projects**  
 
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
-📌 **Tech Stack:** ```TypeScript``` ```React``` ```Flask``` ```Express``` ```MySQL``` ```EC2``` ```S3``` ```SES``` ```Docker```  
-📖 **Description:** 프로젝트에 대한 간단한 설명  
+📌 **Tech Stack:** `TypeScript` `React` `Flask` `Express` `MySQL` `EC2` `S3` `SES` `Docker` `Github Action`  
+📖 **Description:** A user tailored newsletter service, powered by langchain.   
 🔗 [Live Demo](Demo-Link) | [Repo](https://github.com/lighteko/infoscribe)  
 
 
