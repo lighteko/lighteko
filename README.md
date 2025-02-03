@@ -50,9 +50,10 @@
 > 🏗 **Featured Projects**  
 
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
+⏱️[![wakatime](https://wakatime.com/badge/user/72204e89-a319-4896-a593-21d5f14a6b04/project/2f715ca1-661a-4593-b32a-9ecf3e9fc057.svg)](https://wakatime.com/badge/user/72204e89-a319-4896-a593-21d5f14a6b04/project/2f715ca1-661a-4593-b32a-9ecf3e9fc057)  
 📌 **Tech Stack:** `TypeScript` `React` `Flask` `Express` `MySQL` `EC2` `S3` `SES` `Docker` `Github Action`  
 📖 **Description:** A user tailored newsletter service, powered by langchain.   
-🔗 [Live Demo](Demo-Link) | [Repo](https://github.com/lighteko/infoscribe)  
+🔗 [Live Demo](Demo-Link) | [Repo](https://github.com/lighteko/infoscribe) 
 
 
 
