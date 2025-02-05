@@ -50,7 +50,7 @@
 > 🏗 **Featured Projects**  
 
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
-📌 **Tech Stack:** `TypeScript` `React` `Flask` `Express` `MySQL` `EC2` `ECS` `Fargate` `S3` `SES` `SQS` `Docker` `Github Action`  
+📌 **Tech Stack:** `TypeScript` `React` `Flask` `Express` `MySQL` `EC2` `ECS` `Fargate` `S3` `SES` `SQS` `Docker` 
 📖 **Description:** A user tailored newsletter service, powered by langchain.   
 🔗 [Live Demo](Demo-Link) | [Repo](https://github.com/lighteko/infoscribe) 
 
