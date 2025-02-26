@@ -25,18 +25,6 @@
 ![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white)  
 
-### 📝 **Languages**  
-![TypeScript](https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=white)  
-
-### 🛠 **Tools**  
-![VS Code](https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=white)  
-
 ---
 
 ## ✨ Projects  
