@@ -8,19 +8,19 @@
 ---
 
 ## 🛠 Tech Stack  
-### 💻 **Frontend**  
+#### 💻 **Frontend**  
 ![React](https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-20232a.svg?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-20232a.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-20232a.svg?style=flat-square&logo=css3&logoColor=white)  
 
-### 🔧 **Backend & Database**  
+#### 🔧 **Backend & Database**  
 ![Flask](https://img.shields.io/badge/flask-20232a.svg?style=flat-square&logo=flask&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-20232a.svg?style=flat-square&logo=express&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-20232a.svg?style=flat-square&logo=mongodb&logoColor=white)  
 
-### ☁ **Cloud & DevOps**  
+#### ☁ **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/aws-20232a.svg?style=flat-square&logo=amazonaws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-20232a.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-20232a.svg?style=flat-square&logo=firebase&logoColor=white)  
