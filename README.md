@@ -50,9 +50,12 @@
 ---
 
 ## 🏆 Problem Solving    
-[![LeetCode Stats](https://leetcard.jacoblin.cool/lighteko?theme=dark&font=Baloo)](https://leetcode.com/lighteko)  
+<div>
+    <img src="https://leetcard.jacoblin.cool/lighteko?theme=dark&font=Baloo" />
+    <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=lighteko" />
+</div>
 
-🔗 [LeetCode Profile](https://leetcode.com/lighteko)  
+🔗 [LeetCode Profile](https://leetcode.com/lighteko) 🔗 [Baekjoon Profile](https://www.acmicpc.net/user/lighteko)
 
 ---
 
