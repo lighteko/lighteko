@@ -51,8 +51,8 @@
 
 ## 🏆 Problem Solving    
 <div>
-    <img src="https://leetcard.jacoblin.cool/lighteko?theme=dark&font=Baloo" width=55%/>
-    <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=lighteko" width=33%/>
+    <img src="https://leetcard.jacoblin.cool/lighteko?theme=dark&font=Baloo" width=61.7%/>
+    <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=lighteko" width=32.8%/>
 </div>
 
 🔗 [LeetCode Profile](https://leetcode.com/lighteko) 🔗 [Baekjoon Profile](https://www.acmicpc.net/user/lighteko)
