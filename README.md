@@ -31,7 +31,7 @@
 > 🏗 **Featured Projects**  
 
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
-📌 **Tech Stack:** `Python` `TypeScript` `React` `Express` `MySQL` `RDS` `EC2` `Event Bridge` `S3` `SES` `Lambda` `Docker`  
+📌 **Tech Stack:** `Python` `TypeScript` `Next.js` `Express.js` `MySQL` `RDS` `EC2` `Event Bridge` `S3` `SES` `Lambda` `Docker`  
 📖 **Description:** A user-tailored newsletter service, powered by LangChain.   
 🔗 [Live Demo](Demo-Link) | [Repo](https://github.com/lighteko/infoscribe)   
 
