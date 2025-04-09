@@ -3,7 +3,6 @@
 
 [![WakaTime](https://wakatime.com/badge/user/72204e89-a319-4896-a593-21d5f14a6b04.svg)](https://wakatime.com/@lighteko) 
 [![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@esteria04) 
-![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flighteko&count_bg=%23545454&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false) 
 
 ---
 
