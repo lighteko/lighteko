@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Heejoon Yi!  
-### 🚀 Junior at Stony Brook University | TSM & CS Major  
+### 🚀 Senior at Stony Brook University | TSM & CS Major  
 
 [![WakaTime](https://wakatime.com/badge/user/72204e89-a319-4896-a593-21d5f14a6b04.svg)](https://wakatime.com/@lighteko) 
 [![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@esteria04) 
