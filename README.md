@@ -20,6 +20,7 @@
 
 ### ☁ **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/aws-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
+![OCI](https://img.shields.io/badge/oci-20232a.svg?style=for-the-badge&logo=oraclecloudinfrastructure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 
