@@ -16,6 +16,7 @@
 ![Flask](https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### ☁ **Cloud & DevOps**  
