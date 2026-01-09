@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Stats    
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lighteko&show_icons=true&bg_color=101010&text_color=f1f1f0&title_color=f79a09&icon_color=f79a09&border_color=404040" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighteko&layout=donut&show_icons=true&bg_color=101010&text_color=f1f1f0&title_color=f79a09&icon_color=f79a09&border_color=404040" width="38%" />
+  <img src="./profile/stats.svg" width="56%" />
+  <img src="./profile/top-langs.svg" width="38%" />
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
