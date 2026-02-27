@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![QDrant](https://img.shields.io/badge/qdrant-20232a.svg?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### ☁ **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/aws-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
@@ -37,7 +38,7 @@
 🔗 [Repo](https://github.com/lighteko/infoscribe)   
 
 ### 🔹 [Reppy](https://github.com/lighteko/reppy)  
-📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `QDrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
+📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
 📖 **Description:** Workout Duolingo with AI trainer.  
 🔗 [Repo](https://github.com/lighteko/reppy)   
 
