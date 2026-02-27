@@ -26,6 +26,7 @@
 ![OCI](https://img.shields.io/badge/oci-20232a.svg?style=for-the-badge&logo=oraclecloudinfrastructure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+![Supabase](https://img.shields.io/badge/supabase-20232a.svg?style=for-the-badge&logo=supabase&logoColor=white) 
 
 ---
 
