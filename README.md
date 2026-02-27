@@ -15,6 +15,7 @@
 ### 🔧 **Backend & Database**  
 ![Flask](https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=white) 
+![Nest.js](https://img.shields.io/badge/nest.js-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -36,7 +37,7 @@
 🔗 [Repo](https://github.com/lighteko/infoscribe)   
 
 ### 🔹 [Reppy](https://github.com/lighteko/reppy)  
-📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
+📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `QDrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
 📖 **Description:** Workout Duolingo with AI trainer.  
 🔗 [Repo](https://github.com/lighteko/reppy)   
 
