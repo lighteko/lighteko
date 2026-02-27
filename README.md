@@ -35,6 +35,11 @@
 📖 **Description:** A user-tailored newsletter service, powered by LangChain.   
 🔗 [Repo](https://github.com/lighteko/infoscribe)   
 
+### 🔹 [Reppy](https://github.com/lighteko/reppy)  
+📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
+📖 **Description:** Workout Duolingo with AI trainer.  
+🔗 [Repo](https://github.com/lighteko/reppy)   
+
 ---
 
 ## 📊 GitHub Stats    
