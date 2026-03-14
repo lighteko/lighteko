@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Heejoon Yi!  
 ### 🚀 Senior at Stony Brook University | TSM & CS Major  
+
 I'm a passionate software engineer with business mindset.
+
 ---
 
 ## 🛠 Tech Stack  
