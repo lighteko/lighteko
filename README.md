@@ -44,7 +44,7 @@ I'm a passionate software engineer with business mindset.
 ## ✨ Team Projects  
 > 🏗 **Featured Projects**
 
-### 🔹 [Prism](https://github.com/Prism-416/.github)  
+### 🔹 [Prism(Ongoing)](https://github.com/Prism-416/.github)  
 📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `pgvector` `Supabase`  `Object Storage` `Scheduler` `TypeScript`  
 📖 **Description:** PM-Agent driven task management service  
 🔗 [Repo](https://github.com/Prism-416/.github)   
