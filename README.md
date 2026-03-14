@@ -29,15 +29,19 @@
 
 ## ✨ Projects  
 > 🏗 **Featured Projects**  
+### 🔹 [Prism](https://github.com/Prism-416/.github)  
+📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
+📖 **Description:** PM-Agent driven task management service
+🔗 [Repo](https://github.com/Prism-416/.github)   
 
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
 📌 **Tech Stack:** `Docker` `EC2` `Event Bridge` `Express.js` `Lambda` `MySQL` `Next.js` `Python` `RDS`  `S3` `SES` `SQS` `TypeScript`  
 📖 **Description:** A user-tailored newsletter service, powered by LangChain.   
 🔗 [Repo](https://github.com/lighteko/infoscribe)   
 
-### 🔹 [Reppy](https://github.com/lighteko/reppy)  
+### 🔹 [Reppy(Ongoing)](https://github.com/lighteko/reppy)  
 📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
-📖 **Description:** Workout Duolingo with AI trainer.  
+📖 **Description:** Workout logging application with AI trainer.  
 🔗 [Repo](https://github.com/lighteko/reppy)   
 
 ---
