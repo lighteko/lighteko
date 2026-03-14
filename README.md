@@ -29,13 +29,8 @@ I'm a passionate software engineer with business mindset.
 
 ---
 
-## ✨ Projects  
+## ✨ Solo Projects  
 > 🏗 **Featured Projects**  
-### 🔹 [Prism](https://github.com/Prism-416/.github)  
-📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `pgvector` `Supabase`  `Object Storage` `Scheduler` `TypeScript`  
-📖 **Description:** PM-Agent driven task management service  
-🔗 [Repo](https://github.com/Prism-416/.github)   
-
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
 📌 **Tech Stack:** `Docker` `EC2` `Event Bridge` `Express.js` `Lambda` `MySQL` `Next.js` `Python` `RDS`  `S3` `SES` `SQS` `TypeScript`  
 📖 **Description:** A user-tailored newsletter service, powered by LangChain.   
@@ -45,6 +40,14 @@ I'm a passionate software engineer with business mindset.
 📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
 📖 **Description:** Workout logging application with AI trainer.  
 🔗 [Repo](https://github.com/lighteko/reppy)   
+
+## ✨ Team Projects  
+> 🏗 **Featured Projects**
+
+### 🔹 [Prism](https://github.com/Prism-416/.github)  
+📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `pgvector` `Supabase`  `Object Storage` `Scheduler` `TypeScript`  
+📖 **Description:** PM-Agent driven task management service  
+🔗 [Repo](https://github.com/Prism-416/.github)   
 
 ---
 
