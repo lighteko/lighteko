@@ -30,7 +30,7 @@
 ## ✨ Projects  
 > 🏗 **Featured Projects**  
 ### 🔹 [Prism](https://github.com/Prism-416/.github)  
-📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
+📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `pgvector` `Supabase`  `Object Storage` `Scheduler` `TypeScript`  
 📖 **Description:** PM-Agent driven task management service  
 🔗 [Repo](https://github.com/Prism-416/.github)   
 
