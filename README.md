@@ -29,7 +29,7 @@ I'm a passionate software engineer with business mindset.
 
 ---
 
-## ✨ Solo Projects  
+## ✨ Personal Projects  
 > 🏗 **Featured Projects**  
 ### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
 📌 **Tech Stack:** `Docker` `EC2` `Event Bridge` `Express.js` `Lambda` `MySQL` `Next.js` `Python` `RDS`  `S3` `SES` `SQS` `TypeScript`  
