@@ -62,19 +62,6 @@ I'm a passionate software engineer with business mindset.
 </a>
 
 
-
----
-
-## 🏆 Problem Solving    
-<div>
-    <img src="https://leetcard.jacoblin.cool/lighteko?theme=dark&font=Baloo" width=61.7%/>
-    <img src="https://baekjoon-card.vercel.app/api/baekjoon?username=lighteko" width=32.8%/>
-</div>
-
-🔗 [LeetCode Profile](https://leetcode.com/lighteko) 🔗 [Baekjoon Profile](https://www.acmicpc.net/user/lighteko)
-
----
-
 📝 **Feel free to connect with me!** 😊  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejoon-yi/)
