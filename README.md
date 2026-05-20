@@ -36,7 +36,7 @@ I'm a passionate software engineer with business mindset.
 📖 **Description:** A user-tailored newsletter service, powered by LangChain.   
 🔗 [Repo](https://github.com/lighteko/infoscribe)   
 
-### 🔹 [Reppy(Ongoing)](https://github.com/lighteko/reppy)  
+### 🔹 [Reppy(Paused)](https://github.com/lighteko/reppy)  
 📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
 📖 **Description:** Workout logging application with AI trainer.  
 🔗 [Repo](https://github.com/lighteko/reppy)   
