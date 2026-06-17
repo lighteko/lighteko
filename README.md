@@ -1,68 +1,64 @@
-# 👋 Hi, I'm Heejoon Yi!  
-### 🚀 Senior at Stony Brook University | TSM & CS Major  
+# Hi, I'm Heejoon Yi 👋
 
-I'm a passionate software engineer with business mindset.
+### Software Engineer building AI-native products
 
----
+I build software at the intersection of AI agents, backend systems, and cloud infrastructure.
 
-## 🛠 Tech Stack  
-### 💻 **Frontend**  
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwind-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+I'm interested in how AI agents can transform software from passive tools into active collaborators.
 
-### 🔧 **Backend & Database**  
-![Flask](https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Express](https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Nest.js](https://img.shields.io/badge/nest.js-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![QDrant](https://img.shields.io/badge/qdrant-20232a.svg?style=for-the-badge&logo=qdrant&logoColor=white)
-
-### ☁ **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/aws-20232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
-![OCI](https://img.shields.io/badge/oci-20232a.svg?style=for-the-badge&logo=oraclecloudinfrastructure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=white) 
-![Supabase](https://img.shields.io/badge/supabase-20232a.svg?style=for-the-badge&logo=supabase&logoColor=white) 
+My work spans agentic workflows, retrieval systems, backend infrastructure, and product development, with a focus on building practical AI applications that people actually use.
 
 ---
 
-## ✨ Personal Projects  
-> 🏗 **Featured Projects**  
-### 🔹 [Infoscribe](https://github.com/lighteko/infoscribe)  
-📌 **Tech Stack:** `Docker` `EC2` `Event Bridge` `Express.js` `Lambda` `MySQL` `Next.js` `Python` `RDS`  `S3` `SES` `SQS` `TypeScript`  
-📖 **Description:** A user-tailored newsletter service, powered by LangChain.   
-🔗 [Repo](https://github.com/lighteko/infoscribe)   
+## Featured Projects
 
-### 🔹 [Reppy(Paused)](https://github.com/lighteko/reppy)  
-📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `React Native` `Python` `Qdrant` `Supabase`  `Object Storage` `Streaming` `TypeScript`  
-📖 **Description:** Workout logging application with AI trainer.  
-🔗 [Repo](https://github.com/lighteko/reppy)   
+### 🚀 Infoscribe
 
-## ✨ Team Projects  
-> 🏗 **Featured Projects**
+AI-powered newsletter automation platform that collects, deduplicates, summarizes, and delivers personalized news digests.
 
-### 🔹 [Prizmatic(Ongoing)](https://github.com/Prism-416)  
-📌 **Tech Stack:** `Docker` `VM` `Queue` `Nest.js` `OCI Function` `PostgreSQL` `Next.js` `Python` `pgvector` `Supabase`  `Object Storage` `Scheduler` `TypeScript`  
-📖 **Description:** PM-Agent driven task management service  
-🔗 [Repo](https://github.com/Prism-416)   
+**Stack**
+`Next.js` `Express.js` `Python` `LangChain` `AWS Lambda` `RDS` `S3` `SES` `EventBridge` `Docker`
+
+🔗 https://github.com/lighteko/infoscribe
 
 ---
 
-## 📊 GitHub Stats    
-<div>
-  <img src="./profile/stats.svg" width="56%" />
-  <img src="./profile/top-langs.svg" width="38%" />
-</div>
+### 🧠 Prizmatic
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lighteko&bg_color=101010&color=f1f1f0&line=f79a09&border_color=404040&point=dcdcdc&radius=8" width="94.5%" />
-</a>
+PM-Agent driven task management platform for planning, execution, and team productivity.
 
+**Stack**
+`TypeScript` `Next.js` `Zustand` `Tanstack Query` `NestJS` `Python` `Pydantic AI` `PostgreSQL` `pgvector` `Supabase` `Docker` `OCI` `Email Delivery` `Queues` `Functions` `Object Storage` `Compute` `GitHub Webhooks`
 
-📝 **Feel free to connect with me!** 😊  
+🔗 https://github.com/Prism-416
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejoon-yi/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.lighteko@gmail.com)
+---
+
+### 🏋️ Reppy
+
+AI trainer and workout logging application designed around personalized coaching and retrieval-augmented fitness guidance.
+
+**Stack**
+`React Native` `NestJS` `Python` `PostgreSQL` `Qdrant` `Supabase` `Streaming`
+
+🔗 https://github.com/lighteko/reppy
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=lighteko&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighteko&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lighteko&bg_color=00000000&hide_border=true&color=666666&line=3B82F6&point=3B82F6" />
+</p>
+
+---
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/heejoon-yi/
+* Email: [dev.lighteko@gmail.com](mailto:dev.lighteko@gmail.com)
