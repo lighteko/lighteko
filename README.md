@@ -61,4 +61,4 @@ AI trainer and workout logging application designed around personalized coaching
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/heejoon-yi/
-* Email: [dev.lighteko@gmail.com](mailto:dev.lighteko@gmail.com)
+* Email: [heejoon.yi@team-ascend.com](mailto:heejoon.yi@team-ascend.com)
