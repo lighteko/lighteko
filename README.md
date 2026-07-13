@@ -45,19 +45,6 @@ AI trainer and workout logging application designed around personalized coaching
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=lighteko&show_icons=true&hide_border=true&theme=transparent" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lighteko&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lighteko&bg_color=00000000&hide_border=true&color=666666&line=3B82F6&point=3B82F6" />
-</p>
-
----
-
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/heejoon-yi/
