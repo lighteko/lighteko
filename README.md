@@ -12,17 +12,6 @@ My work spans agentic workflows, retrieval systems, backend infrastructure, and 
 
 ## Featured Projects
 
-### 🚀 Infoscribe
-
-AI-powered newsletter automation platform that collects, deduplicates, summarizes, and delivers personalized news digests.
-
-**Stack**
-`Next.js` `Express.js` `Python` `LangChain` `AWS Lambda` `RDS` `S3` `SES` `EventBridge` `Docker`
-
-🔗 https://github.com/lighteko/infoscribe
-
----
-
 ### 🧠 Prizmatic
 
 PM-Agent driven task management platform for planning, execution, and team productivity.
